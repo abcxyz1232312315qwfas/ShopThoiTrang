@@ -1,0 +1,1830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="demoShop:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="963fabbf-645b-41e7-bc4f-a630408d7798" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="java_shop: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="java_shop: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="shop1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="package-info" />
+        <option value="CSS File" />
+        <option value="jsf" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\ADMIN\IdeaProjects\shop1\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XkIjqMVnvLYC9mOWwiB94alQ6t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/website-ban-hang" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="service.view.auto.scroll.to.source" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\Desktop\demoShop\src\main\webapp\template\web\img\blog" />
+      <recent name="C:\Users\ADMIN\Desktop\demoShop\src\main\webapp\template\web\img" />
+      <recent name="C:\Users\ADMIN\Desktop\demoShop\src\main\webapp\template\web\img\anhShoes" />
+      <recent name="C:\Users\ADMIN\Desktop\demoShop\src\main\webapp\template\web\img\anhBag" />
+      <recent name="C:\Users\ADMIN\Desktop\demoShop\src\main\webapp\template\web\img\anhTreEm" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.buiminhduc.interceptor" />
+      <recent name="com.buiminhduc.util" />
+      <recent name="com.buiminhduc.repository.impl" />
+      <recent name="com.buiminhduc.repository" />
+      <recent name="com.buiminhduc.model.entity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\Desktop\demoShop\src\main\webapp\views\admin\order" />
+      <recent name="C:\Users\ADMIN\Desktop\demoShop\src\main\webapp\views\admin" />
+      <recent name="C:\Users\ADMIN\Desktop\demoShop\src\main\webapp\views\web" />
+      <recent name="C:\Users\ADMIN\Desktop\demoShop\src\main\webapp\views\web\blog" />
+      <recent name="C:\Users\ADMIN\Desktop\demoShop\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.50">
+    <configuration name="EmailController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.buiminhduc.controller.admin.EmailController" />
+      <module name="demoShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.buiminhduc.controller.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.buiminhduc.controller.admin.HomeController" />
+      <module name="demoShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.buiminhduc.controller.admin.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.buiminhduc.util.HttpUtil" />
+      <module name="demoShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.buiminhduc.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.buiminhduc.controller.web.product.ProductController" />
+      <module name="demoShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.buiminhduc.controller.web.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.buiminhduc.test" />
+      <module name="demoShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.buiminhduc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jetty 9.4.24.v20191120" type="JettyConfiguration" factoryName="Local" editBeforeRun="true" APPLICATION_SERVER_NAME="Jetty 9.4.24.v20191120" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8082" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="START_JAVASCRIPT_DEBUGGER" value="true" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Djetty.http.port=8100 " />
+      <deployment>
+        <artifact name="shop:war exploded">
+          <settings DEPLOYMENT_METHOD="contexts" />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <data>
+          <option name="baseDirectoryName" value="Unnamed_shop" />
+          <option name="configFiles">
+            <list>
+              <JettyConfigFile>
+                <option name="path" value="modules\acceptratelimit.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\alpn-impl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\alpn.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\annotations.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\apache-jsp.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\apache-jstl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\bytebufferpool.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\cdi-decorate.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\cdi-spi.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\cdi.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\cdi2.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\client.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\connectionlimit.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\conscrypt.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\console-capture.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\continuation.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\customrequestlog.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\debug.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\debuglog.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\decorate.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\deploy.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\ext.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\fcgi.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\flight-recorder.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\gcloud-datastore.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\gcloud.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\global-webapp-common.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\gzip.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\hawtio.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\home-base-warning.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\http-forwarded.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\http.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\http2.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\http2c.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\https.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\inetaccess.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\infinispan-embedded-query.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\infinispan-embedded.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\infinispan-remote-query.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\infinispan-remote.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\ipaccess.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jaas.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jamon.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jaspi.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jcl-slf4j.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jdbc.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jminix.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jmx-remote.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="active" value="true" />
+                <option name="path" value="modules\jmx.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jndi.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jolokia.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jsp.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jstl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jul-impl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jul-slf4j.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jvm.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\log4j-impl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\log4j2-api.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\log4j2-impl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\log4j2-slf4j.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\logback-access.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\logback-impl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\logging-jetty.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\logging-jul.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\logging-log4j.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\logging-log4j2.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\logging-logback.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\logging-slf4j.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\lowresources.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\mail.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\openid.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\plus.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\proxy-protocol-ssl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\proxy-protocol.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\proxy.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\quickstart.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\requestlog.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\resources.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\rewrite-compactpath.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\rewrite-customizer.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\rewrite.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\security.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\server.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\servlet.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\servlets.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-cache-hash.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-cache-null.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-store-cache.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-store-file.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-store-gcloud.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-store-hazelcast-embedded.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-store-hazelcast-remote.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-store-infinispan-embedded.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-store-infinispan-remote.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-store-jdbc.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-store-mongo.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\sessions.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\setuid.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\slf4j-api.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\slf4j-jul.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\slf4j-log4j.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\slf4j-log4j2.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\slf4j-logback.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\slf4j-simple-impl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\spring.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\ssl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\stats.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\stop.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\threadlimit.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\threadpool.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\transactions.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\unixsocket-forwarded.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\unixsocket-http.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\unixsocket-http2c.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\unixsocket-proxy-protocol.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\unixsocket-secure.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\unixsocket.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\webapp.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\websocket.mod" />
+              </JettyConfigFile>
+            </list>
+          </option>
+          <option name="jndiPort" value="1100" />
+          <jndi-port>1100</jndi-port>
+          <base-directory-name>Unnamed_shop</base-directory-name>
+          <option name="myConfigFiles">
+            <list>
+              <JettyConfigFile>
+                <option name="path" value="modules\acceptratelimit.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\alpn-impl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\alpn.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\annotations.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\apache-jsp.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\apache-jstl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\bytebufferpool.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\cdi-decorate.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\cdi-spi.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\cdi.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\cdi2.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\client.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\connectionlimit.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\conscrypt.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\console-capture.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\continuation.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\customrequestlog.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\debug.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\debuglog.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\decorate.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\deploy.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\ext.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\fcgi.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\flight-recorder.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\gcloud-datastore.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\gcloud.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\global-webapp-common.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\gzip.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\hawtio.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\home-base-warning.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\http-forwarded.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\http.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\http2.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\http2c.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\https.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\inetaccess.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\infinispan-embedded-query.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\infinispan-embedded.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\infinispan-remote-query.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\infinispan-remote.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\ipaccess.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jaas.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jamon.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jaspi.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jcl-slf4j.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jdbc.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jminix.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jmx-remote.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="active" value="true" />
+                <option name="path" value="modules\jmx.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jndi.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jolokia.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jsp.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jstl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jul-impl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jul-slf4j.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\jvm.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\log4j-impl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\log4j2-api.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\log4j2-impl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\log4j2-slf4j.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\logback-access.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\logback-impl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\logging-jetty.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\logging-jul.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\logging-log4j.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\logging-log4j2.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\logging-logback.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\logging-slf4j.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\lowresources.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\mail.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\openid.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\plus.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\proxy-protocol-ssl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\proxy-protocol.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\proxy.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\quickstart.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\requestlog.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\resources.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\rewrite-compactpath.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\rewrite-customizer.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\rewrite.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\security.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\server.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\servlet.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\servlets.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-cache-hash.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-cache-null.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-store-cache.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-store-file.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-store-gcloud.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-store-hazelcast-embedded.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-store-hazelcast-remote.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-store-infinispan-embedded.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-store-infinispan-remote.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-store-jdbc.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\session-store-mongo.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\sessions.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\setuid.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\slf4j-api.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\slf4j-jul.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\slf4j-log4j.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\slf4j-log4j2.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\slf4j-logback.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\slf4j-simple-impl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\spring.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\ssl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\stats.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\stop.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\threadlimit.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\threadpool.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\transactions.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\unixsocket-forwarded.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\unixsocket-http.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\unixsocket-http2c.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\unixsocket-proxy-protocol.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\unixsocket-secure.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\unixsocket.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\webapp.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules\websocket.mod" />
+              </JettyConfigFile>
+            </list>
+          </option>
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Jetty" />
+      <ConfigurationWrapper VM_VAR="" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="shop:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.50" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.50" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <deployment>
+        <artifact name="demoShop:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_shop" />
+        <option name="HTTP_PORT" value="8081" />
+        <option name="JNDI_PORT" value="1098" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63080" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="shop:war exploded" />
+          <artifact name="shop1:war exploded" />
+          <artifact name="demoShop:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.test (1)" />
+      <item itemvalue="Application.HttpUtil" />
+      <item itemvalue="Application.ProductController" />
+      <item itemvalue="Application.HomeController" />
+      <item itemvalue="Application.EmailController" />
+      <item itemvalue="Jetty Server.Jetty 9.4.24.v20191120" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.50" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test (1)" />
+        <item itemvalue="Application.EmailController" />
+        <item itemvalue="Application.HomeController" />
+        <item itemvalue="Application.ProductController" />
+        <item itemvalue="Application.HttpUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.22179289" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Jetty Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="963fabbf-645b-41e7-bc4f-a630408d7798" name="Default Changelist" comment="" />
+      <created>1577890322527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577890322527</updated>
+      <workItem from="1577890327926" duration="4411000" />
+      <workItem from="1577949266465" duration="15925000" />
+      <workItem from="1578041567578" duration="588000" />
+      <workItem from="1578051214010" duration="690000" />
+      <workItem from="1578057332947" duration="3472000" />
+      <workItem from="1578061072409" duration="7473000" />
+      <workItem from="1578069207360" duration="2472000" />
+      <workItem from="1578119713905" duration="3946000" />
+      <workItem from="1578205765806" duration="1518000" />
+      <workItem from="1578230478946" duration="7229000" />
+      <workItem from="1578239274620" duration="3971000" />
+      <workItem from="1578244057422" duration="2970000" />
+      <workItem from="1578317630199" duration="8491000" />
+      <workItem from="1578396297681" duration="7037000" />
+      <workItem from="1578455565932" duration="485000" />
+      <workItem from="1578488555243" duration="15195000" />
+      <workItem from="1578581188491" duration="4563000" />
+      <workItem from="1578586278319" duration="5228000" />
+      <workItem from="1578641276092" duration="1102000" />
+      <workItem from="1578662152128" duration="12571000" />
+      <workItem from="1578711337738" duration="5894000" />
+      <workItem from="1578749536272" duration="9394000" />
+      <workItem from="1578824833702" duration="190000" />
+      <workItem from="1578834233823" duration="7777000" />
+      <workItem from="1580395523803" duration="1993000" />
+      <workItem from="1580562259675" duration="21000" />
+      <workItem from="1580564121717" duration="495000" />
+      <workItem from="1580564896016" duration="38000" />
+      <workItem from="1580565238409" duration="1083000" />
+      <workItem from="1580569912139" duration="1241000" />
+      <workItem from="1580627746482" duration="3930000" />
+      <workItem from="1580654704179" duration="2410000" />
+      <workItem from="1580657615239" duration="2510000" />
+      <workItem from="1580714923996" duration="10465000" />
+      <workItem from="1580738345159" duration="33702000" />
+      <workItem from="1580913274158" duration="3358000" />
+      <workItem from="1580994120887" duration="1026000" />
+      <workItem from="1580995773020" duration="76000" />
+      <workItem from="1581000186290" duration="723000" />
+      <workItem from="1581062012014" duration="72000" />
+      <workItem from="1581081012901" duration="1036000" />
+      <workItem from="1581082110244" duration="324000" />
+      <workItem from="1581082772731" duration="96000" />
+      <workItem from="1581085971844" duration="1430000" />
+      <workItem from="1581090235542" duration="479000" />
+      <workItem from="1581150065516" duration="12000" />
+      <workItem from="1581164873616" duration="970000" />
+      <workItem from="1581167356675" duration="6000" />
+      <workItem from="1581167654890" duration="45000" />
+      <workItem from="1581170160973" duration="2981000" />
+      <workItem from="1581175427882" duration="1017000" />
+      <workItem from="1581178554387" duration="41000" />
+      <workItem from="1581217687899" duration="68000" />
+      <workItem from="1581217919131" duration="36000" />
+      <workItem from="1581219627835" duration="24107000" />
+      <workItem from="1581319993068" duration="6439000" />
+      <workItem from="1581345889528" duration="6277000" />
+      <workItem from="1581389601443" duration="9996000" />
+      <workItem from="1581480095104" duration="1362000" />
+      <workItem from="1581504131468" duration="86000" />
+      <workItem from="1581583805573" duration="1914000" />
+      <workItem from="1581587698637" duration="1177000" />
+      <workItem from="1581599916518" duration="833000" />
+      <workItem from="1581602539640" duration="873000" />
+      <workItem from="1581604012492" duration="6770000" />
+      <workItem from="1581685211600" duration="3901000" />
+      <workItem from="1581689730975" duration="4820000" />
+      <workItem from="1581774887204" duration="45000" />
+      <workItem from="1581777098352" duration="53000" />
+      <workItem from="1581778882211" duration="11000" />
+      <workItem from="1581821605958" duration="4222000" />
+      <workItem from="1581838676832" duration="3694000" />
+      <workItem from="1581842432042" duration="321000" />
+      <workItem from="1581842913015" duration="3074000" />
+      <workItem from="1581857427043" duration="8891000" />
+      <workItem from="1581868381358" duration="693000" />
+      <workItem from="1581906115910" duration="5494000" />
+      <workItem from="1581921643932" duration="9475000" />
+      <workItem from="1581944448776" duration="9700000" />
+      <workItem from="1582031562271" duration="7693000" />
+      <workItem from="1582085268461" duration="8000" />
+      <workItem from="1582121963815" duration="5000" />
+      <workItem from="1582124951056" duration="6000" />
+      <workItem from="1582290002605" duration="1022000" />
+      <workItem from="1582291068711" duration="6076000" />
+      <workItem from="1582376729089" duration="8219000" />
+      <workItem from="1582385570332" duration="1662000" />
+      <workItem from="1582444113078" duration="1834000" />
+      <workItem from="1582446044684" duration="2764000" />
+      <workItem from="1582462556449" duration="4437000" />
+      <workItem from="1582467052764" duration="5343000" />
+      <workItem from="1582535749365" duration="1440000" />
+      <workItem from="1582549695926" duration="61000" />
+      <workItem from="1582550133118" duration="739000" />
+      <workItem from="1582639917749" duration="7121000" />
+      <workItem from="1582682624092" duration="2711000" />
+      <workItem from="1582685401467" duration="1850000" />
+      <workItem from="1582687286439" duration="2507000" />
+      <workItem from="1582722572397" duration="3651000" />
+      <workItem from="1582726808356" duration="5580000" />
+      <workItem from="1582770562807" duration="3968000" />
+      <workItem from="1582788300455" duration="80000" />
+      <workItem from="1582808139834" duration="22000" />
+      <workItem from="1582808647226" duration="6390000" />
+      <workItem from="1582815546424" duration="446000" />
+      <workItem from="1582855372124" duration="5763000" />
+      <workItem from="1582879136496" duration="4930000" />
+      <workItem from="1582894287023" duration="11087000" />
+      <workItem from="1582967505858" duration="2786000" />
+      <workItem from="1582983826080" duration="7282000" />
+      <workItem from="1583048788625" duration="4952000" />
+      <workItem from="1583065024758" duration="12756000" />
+      <workItem from="1583115319466" duration="10490000" />
+      <workItem from="1583153638382" duration="3530000" />
+      <workItem from="1583157282590" duration="4132000" />
+      <workItem from="1583205595778" duration="2159000" />
+      <workItem from="1583219550955" duration="4750000" />
+      <workItem from="1583224496215" duration="852000" />
+      <workItem from="1583239042504" duration="9943000" />
+      <workItem from="1583306910674" duration="1802000" />
+      <workItem from="1583330570921" duration="6485000" />
+      <workItem from="1583391853667" duration="5150000" />
+      <workItem from="1583413317415" duration="9718000" />
+      <workItem from="1583672231251" duration="2000" />
+      <workItem from="1583676470555" duration="21000" />
+      <workItem from="1583676519301" duration="169000" />
+      <workItem from="1583676714217" duration="7883000" />
+      <workItem from="1583811316757" duration="1245000" />
+      <workItem from="1583813495137" duration="817000" />
+      <workItem from="1583826519628" duration="411000" />
+      <workItem from="1583828862660" duration="3089000" />
+      <workItem from="1583850080343" duration="578000" />
+      <workItem from="1583852888611" duration="2083000" />
+      <workItem from="1583913399053" duration="649000" />
+      <workItem from="1583938114506" duration="17000" />
+      <workItem from="1583938231508" duration="69000" />
+      <workItem from="1584089060297" duration="2866000" />
+      <workItem from="1584108514659" duration="3926000" />
+      <workItem from="1584191565418" duration="5341000" />
+      <workItem from="1584259357987" duration="2544000" />
+      <workItem from="1584276201073" duration="10277000" />
+      <workItem from="1584340700632" duration="7289000" />
+      <workItem from="1584418158602" duration="634000" />
+      <workItem from="1584434691467" duration="20000" />
+      <workItem from="1584448335185" duration="6746000" />
+      <workItem from="1584455239577" duration="645000" />
+      <workItem from="1584457002194" duration="5498000" />
+      <workItem from="1584515957661" duration="6298000" />
+      <workItem from="1584533775826" duration="11280000" />
+      <workItem from="1584603195541" duration="5679000" />
+      <workItem from="1584630467666" duration="302000" />
+      <workItem from="1584687187216" duration="8746000" />
+      <workItem from="1584709149698" duration="10109000" />
+      <workItem from="1584776129032" duration="199000" />
+      <workItem from="1584776605050" duration="4197000" />
+      <workItem from="1584780913444" duration="1223000" />
+      <workItem from="1584795067576" duration="9297000" />
+      <workItem from="1584860909733" duration="4423000" />
+      <workItem from="1584881187446" duration="11609000" />
+      <workItem from="1584943577040" duration="5353000" />
+      <workItem from="1584950742868" duration="2859000" />
+      <workItem from="1584969019886" duration="1402000" />
+      <workItem from="1584974036348" duration="6190000" />
+      <workItem from="1585121147515" duration="1424000" />
+      <workItem from="1585140435247" duration="7799000" />
+      <workItem from="1585206252192" duration="741000" />
+      <workItem from="1585207184227" duration="6000" />
+      <workItem from="1585227686544" duration="5574000" />
+      <workItem from="1585291442631" duration="4582000" />
+      <workItem from="1585312882070" duration="2112000" />
+      <workItem from="1585316707006" duration="9742000" />
+      <workItem from="1585374192684" duration="5552000" />
+      <workItem from="1585380332971" duration="1884000" />
+      <workItem from="1585382300213" duration="1761000" />
+      <workItem from="1585384146787" duration="2168000" />
+      <workItem from="1585402711756" duration="8795000" />
+      <workItem from="1585411555143" duration="1700000" />
+      <workItem from="1585465390778" duration="6853000" />
+      <workItem from="1585485325883" duration="14594000" />
+      <workItem from="1585549373583" duration="9354000" />
+      <workItem from="1585585486670" duration="576000" />
+      <workItem from="1585639089918" duration="6627000" />
+      <workItem from="1585648569469" duration="3196000" />
+      <workItem from="1585659685805" duration="6244000" />
+      <workItem from="1585665989702" duration="2968000" />
+      <workItem from="1585668997774" duration="474000" />
+      <workItem from="1585705038770" duration="6238000" />
+      <workItem from="1585717948632" duration="434000" />
+      <workItem from="1585722874066" duration="34000" />
+      <workItem from="1585745623436" duration="2811000" />
+      <workItem from="1585748576241" duration="392000" />
+      <workItem from="1585749013522" duration="2308000" />
+      <workItem from="1585751387167" duration="6947000" />
+      <workItem from="1585813227386" duration="8092000" />
+      <workItem from="1585831821594" duration="15966000" />
+      <workItem from="1585877769821" duration="19699000" />
+      <workItem from="1585916852933" duration="12074000" />
+      <workItem from="1585929320285" duration="14000" />
+      <workItem from="1585929469758" duration="1082000" />
+      <workItem from="1585968748883" duration="1438000" />
+      <workItem from="1585972601179" duration="27911000" />
+      <workItem from="1586018204263" duration="142000" />
+      <workItem from="1586053761695" duration="2614000" />
+      <workItem from="1586056841447" duration="1995000" />
+      <workItem from="1586093205119" duration="29000" />
+      <workItem from="1586326135330" duration="577000" />
+      <workItem from="1586327916536" duration="30000" />
+      <workItem from="1586328029236" duration="12000" />
+      <workItem from="1586329131230" duration="954000" />
+      <workItem from="1586330812168" duration="1973000" />
+      <workItem from="1586334368325" duration="3195000" />
+      <workItem from="1586414630811" duration="191000" />
+      <workItem from="1586418378901" duration="14000" />
+      <workItem from="1586439678631" duration="3000" />
+      <workItem from="1586439758756" duration="14000" />
+      <workItem from="1586442585215" duration="359000" />
+      <workItem from="1586444938283" duration="177000" />
+      <workItem from="1586941575060" duration="124000" />
+      <workItem from="1586954300606" duration="182000" />
+      <workItem from="1586962570824" duration="2076000" />
+      <workItem from="1587024171072" duration="100000" />
+      <workItem from="1587024331108" duration="557000" />
+      <workItem from="1587089619081" duration="108000" />
+      <workItem from="1587110993478" duration="417000" />
+      <workItem from="1587174121413" duration="9000" />
+      <workItem from="1587187205301" duration="379000" />
+      <workItem from="1587214360441" duration="1134000" />
+      <workItem from="1587302432631" duration="94000" />
+      <workItem from="1587303238412" duration="1005000" />
+      <workItem from="1587564996504" duration="82000" />
+      <workItem from="1587967769651" duration="457000" />
+      <workItem from="1588041009245" duration="259000" />
+      <workItem from="1588053482565" duration="3483000" />
+      <workItem from="1588087975443" duration="1560000" />
+      <workItem from="1588126238884" duration="17000" />
+      <workItem from="1588127950534" duration="525000" />
+      <workItem from="1588598690045" duration="13000" />
+      <workItem from="1588689873985" duration="1473000" />
+      <workItem from="1588691724030" duration="781000" />
+      <workItem from="1588950638066" duration="973000" />
+      <workItem from="1589006388571" duration="386000" />
+      <workItem from="1589009138957" duration="3148000" />
+      <workItem from="1589334732004" duration="190000" />
+      <workItem from="1589335075288" duration="3479000" />
+      <workItem from="1589350562712" duration="537000" />
+      <workItem from="1589385128195" duration="20000" />
+      <workItem from="1589609875089" duration="426000" />
+      <workItem from="1589613987777" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Auto_Import" timestamp="1585902687844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Auto_Import/0.0.1366.728@0.0.1366.728" timestamp="1585902687844" />
+    <state x="463" y="169" key="#BuildArtifactsBeforeRunChooser" timestamp="1584802865904">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="169" key="#BuildArtifactsBeforeRunChooser/0.0.1366.728@0.0.1366.728" timestamp="1584802865904" />
+    <state x="274" y="22" key="#Deployment" timestamp="1582536872062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="22" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1582536872062" />
+    <state x="275" y="22" key="#Inspections" timestamp="1584457060327">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1584457060327" />
+    <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1585639919101">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1585639919101" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586332251223">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586332251223" />
+    <state x="452" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585667252683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="452" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585667252683" />
+    <state x="693" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1586016529179">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="693" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586016529179" />
+    <state x="363" y="92" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583157208394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="92" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1583157208394" />
+    <state x="479" y="223" width="424" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582727295969">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="223" width="424" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1582727295969" />
+    <state x="399" y="82" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1581694360657">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="399" y="82" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1366.728@0.0.1366.728" timestamp="1581694360657" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585899920393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1585899920393" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585325459723">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1585325459723" />
+    <state x="430" y="211" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584342444548">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="430" y="211" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1584342444548" />
+    <state x="231" y="0" key="CommitChangelistDialog2" timestamp="1583049936378">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="231" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583049936378" />
+    <state width="420" height="461" key="DebuggerActiveHint" timestamp="1589011628958">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="420" height="461" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1589011628958" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586331904380">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586331904380" />
+    <state width="1006" height="194" key="GridCell.Tab.0.bottom" timestamp="1589610302544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1006" height="194" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589610302544" />
+    <state width="1006" height="194" key="GridCell.Tab.0.center" timestamp="1589610302544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1006" height="194" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589610302544" />
+    <state width="1006" height="194" key="GridCell.Tab.0.left" timestamp="1589610302544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1006" height="194" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589610302544" />
+    <state width="1006" height="194" key="GridCell.Tab.0.right" timestamp="1589610302544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1006" height="194" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589610302544" />
+    <state width="1006" height="194" key="GridCell.Tab.1.bottom" timestamp="1589610302544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1006" height="194" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589610302544" />
+    <state width="1006" height="194" key="GridCell.Tab.1.center" timestamp="1589610302544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1006" height="194" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589610302544" />
+    <state width="1006" height="194" key="GridCell.Tab.1.left" timestamp="1589610302544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1006" height="194" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589610302544" />
+    <state width="1006" height="194" key="GridCell.Tab.1.right" timestamp="1589610302544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1006" height="194" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589610302544" />
+    <state width="1006" height="194" key="GridCell.Tab.2.bottom" timestamp="1589610302545">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1006" height="194" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589610302545" />
+    <state width="1006" height="194" key="GridCell.Tab.2.center" timestamp="1589610302545">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1006" height="194" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1589610302545" />
+    <state width="1006" height="194" key="GridCell.Tab.2.left" timestamp="1589610302544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1006" height="194" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1589610302544" />
+    <state width="1006" height="194" key="GridCell.Tab.2.right" timestamp="1589610302545">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1006" height="194" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1589610302545" />
+    <state width="1006" height="274" key="GridCell.Tab.3.bottom" timestamp="1586338556373">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1006" height="274" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586338556373" />
+    <state width="1006" height="274" key="GridCell.Tab.3.center" timestamp="1586338556372">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1006" height="274" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1586338556372" />
+    <state width="1006" height="274" key="GridCell.Tab.3.left" timestamp="1586338556372">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1006" height="274" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1586338556372" />
+    <state width="1006" height="274" key="GridCell.Tab.3.right" timestamp="1586338556372">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1006" height="274" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1586338556372" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1586445071472">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1586445071472" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1586954478992">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586954478992" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1589385128331">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589385128331" />
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583049941788">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1583049941788" />
+    <state x="314" y="61" width="737" height="606" key="find.popup" timestamp="1584711167474">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="314" y="61" width="737" height="606" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1584711167474" />
+    <state x="65" y="59" key="new project wizard" timestamp="1585722911288">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1585722911288" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1586016106073">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1586016106073" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585902355883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585902355883" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/repository/impl/BasicQuery.java</url>
+          <line>247</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/controller/search/XulySize.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/repository/dao/SanPhamDAO.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/controller/search/SortByPrice.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/repository/impl/UserRepositoryImpl.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/util/MySqlConnectionUtil.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/repository/impl/BasicQuery.java</url>
+          <line>281</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/service/impl/RoleServiceImpl.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/repository/impl/UserRepositoryImpl.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/model/entity/UserEntity.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/repository/impl/ProductRepositoryImpl.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/controller/web/product/SearchController.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/controller/web/product/QuickViewController.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/repository/impl/BlogRepositoryImpl.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/repository/impl/BlogRepositoryImpl.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/converter/extend/BlogConverter.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/service/impl/WishListServiceImpl.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/service/impl/WishListServiceImpl.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="337" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/controller/web/product/CartController.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/controller/web/product/CartController.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/service/impl/CheckOutServiceImpl.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="360" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/converter/extend/CheckOutConverter.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/controller/admin/api/UserApi.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="367" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/controller/web/ChangePass.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="368" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/repository/impl/ProductRepositoryImpl.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="375" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/webapp/views/admin/user/edit.jsp</url>
+          <line>79</line>
+          <option name="timeStamp" value="378" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/controller/admin/Product/ProcessProductController.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="380" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/service/impl/ProductServiceImpl.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="381" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/converter/extend/ProductConverter.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="382" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/controller/LoginController.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/controller/LoginController.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="389" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/security/Authen.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="390" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/repository/impl/BasicQuery.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="392" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/util/ObjectUtil.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="393" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/test.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="394" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/util/ObjectUtil.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="395" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/util/ObjectUtil.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/buiminhduc/service/CheckOutService.java</url>
+          <line>13</line>
+          <properties class="com.buiminhduc.service.CheckOutService" method="insert">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="359" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="request" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/shop$Tomcat_8_5_50.ic" NAME="Tomcat 8.5.50 Coverage Results" MODIFIED="1578242689007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
